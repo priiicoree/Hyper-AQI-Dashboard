@@ -29,14 +29,13 @@ Data is collected from APIs and satellite sources, processed using geospatial to
 
 ## Repository Structure
 Hyper-AQI-Dashboard
-│
-├── data
-├── backend
-├── ml_models
-├── geospatial
-├── frontend
-├── alerts
-└── docs
+1. data
+2. backend
+3. ml_models
+4. geospatial
+5. frontend
+6. alerts
+7. docs
 
 
 ## Impact
