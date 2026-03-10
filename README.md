@@ -44,3 +44,10 @@ Hyper-AQI-Dashboard
 - Protects vulnerable populations through targeted alerts
 
 ## Team
+This project was developed by the following team members:
+
+1. **Priyanshi Choudhary**
+2. **Raina Goel**
+3. **Kunal Chauhan**
+4. **Khushboo Bisht**
+5. **Honey Gupta**
